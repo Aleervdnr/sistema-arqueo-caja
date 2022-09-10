@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sistema-arqueo-caja/static/css/main.749b643a.css",
+    "main.js": "/sistema-arqueo-caja/static/js/main.5fb1e133.js",
+    "index.html": "/sistema-arqueo-caja/index.html",
+    "main.749b643a.css.map": "/sistema-arqueo-caja/static/css/main.749b643a.css.map",
+    "main.5fb1e133.js.map": "/sistema-arqueo-caja/static/js/main.5fb1e133.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749b643a.css",
+    "static/js/main.5fb1e133.js"
+  ]
+}
